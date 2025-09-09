@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T11:56:23 IST" name="Suite" finished-at="2025-09-09T11:57:38 IST" duration-ms="75229">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T11:56:23 IST" name="Test" finished-at="2025-09-09T11:57:38 IST" duration-ms="75229">
+      <class name="testcases.TC_003_CreateLead">
+        <test-method is-config="true" signature="dataleads()[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:56:23 IST" name="dataleads" finished-at="2025-09-09T11:56:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataleads -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:56:25 IST" name="precondition" finished-at="2025-09-09T11:56:43 IST" duration-ms="17222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="cretaelead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:56:43 IST" name="cretaelead" data-provider="sendexcel" finished-at="2025-09-09T11:57:11 IST" duration-ms="28428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[zoho]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dhinesh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cretaelead -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:57:11 IST" name="postcondition" finished-at="2025-09-09T11:57:13 IST" duration-ms="2091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:57:13 IST" name="precondition" finished-at="2025-09-09T11:57:26 IST" duration-ms="12535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="cretaelead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:57:26 IST" name="cretaelead" data-provider="sendexcel" finished-at="2025-09-09T11:57:38 IST" duration-ms="12084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[google]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[yeshwini]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[o]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cretaelead -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testcases.TC_003_CreateLead@544fa968]" started-at="2025-09-09T11:57:38 IST" name="postcondition" finished-at="2025-09-09T11:57:38 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- testcases.TC_003_CreateLead -->
+      <class name="testcases.TC_001_LoginPage">
+        <test-method is-config="true" signature="setvalues()[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:56:23 IST" name="setvalues" finished-at="2025-09-09T11:56:23 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvalues -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:56:25 IST" name="precondition" finished-at="2025-09-09T11:56:43 IST" duration-ms="17273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="logipage(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:56:43 IST" name="logipage" data-provider="sendexcel" finished-at="2025-09-09T11:56:45 IST" duration-ms="1990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logipage -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:56:45 IST" name="postcondition" finished-at="2025-09-09T11:56:48 IST" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:56:48 IST" name="precondition" finished-at="2025-09-09T11:57:07 IST" duration-ms="19048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="logipage(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:57:07 IST" name="logipage" data-provider="sendexcel" finished-at="2025-09-09T11:57:09 IST" duration-ms="1982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logipage -->
+        <test-method is-config="true" signature="postcondition()[pri:0, instance:testcases.TC_001_LoginPage@8297b3a]" started-at="2025-09-09T11:57:09 IST" name="postcondition" finished-at="2025-09-09T11:57:13 IST" duration-ms="3671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- testcases.TC_001_LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
